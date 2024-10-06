@@ -29,7 +29,8 @@ Salary Distribution:
 Several outliers exist in the salary distribution, with a few candidates earning much higher than the rest.
 Gender and Specialization:
 Male candidates dominate specializations like Mechanical and Civil Engineering, while female candidates are more prevalent in Computer Science and Information Technology.
-Tools & Libraries Used
+
+#Tools & Libraries Used
 Python: For data analysis and visualization
 Pandas: Data manipulation and cleaning
 Matplotlib & Seaborn: Data visualization
