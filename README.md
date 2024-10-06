@@ -42,7 +42,9 @@ Gender and Specialization:
 Male candidates dominate specializations like Mechanical and Civil Engineering, while female candidates are more prevalent in Computer Science and Information Technology.
 
 #Tools & Libraries Used
+ 
 Python: For data analysis and visualization
+
 Pandas: Data manipulation and cleaning
 Matplotlib & Seaborn: Data visualization
 SciPy: Statistical analysis (t-test)
