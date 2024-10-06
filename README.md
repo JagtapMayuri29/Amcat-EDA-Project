@@ -46,6 +46,9 @@ Male candidates dominate specializations like Mechanical and Civil Engineering, 
 Python: For data analysis and visualization
 
 Pandas: Data manipulation and cleaning
+
 Matplotlib & Seaborn: Data visualization
-SciPy: Statistical analysis (t-test)
+
+SciPy: Statistical analysis
+
 Google Colab: Environment for developing the analysis
