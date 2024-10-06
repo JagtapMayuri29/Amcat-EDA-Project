@@ -13,17 +13,27 @@ Test claims made in research articles about salary trends for fresh graduates in
 A]Data Import and Cleaning : Load the dataset, handle missing values, and ensure the correct data types for each variable.
 
 B]Univariate Analysis:
+
 1]Identify relationships between different categorical and numerical variables.
+
 2]Analyze individual variables like salary, gender distribution, and specialization.
+
 3]Use histograms, boxplots, and count plots to visualize the distribution of these variables.
 
 C]Bivariate Analysis:
+
 Analyze relationships between variables using scatter plots, pair plots, boxplots, and bar plots.
+
 Explore relationships between salary and factors like AMCAT scores, academic performance, and specialization.
+
 Examine the influence of gender on specialization and salary.
+
 Outlier Detection: Identify outliers in salary and AMCAT scores using boxplots.
+
 Discovered the relationships between numerical columns using Scatter plots, hexbin plots
+
 Identified the patterns between categorical and numerical columns using boxplot, barplot, etc..
+
 Identified relationships between categorical and categorical columns using stacked bar plots.
 
 Research Questions:
